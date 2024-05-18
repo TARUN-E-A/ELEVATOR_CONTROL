@@ -30,7 +30,7 @@ STEP:7 compare the output with truth table. image
 ![image](https://github.com/RESMIRNAIR/ELEVATOR_CONTROL/assets/154305926/b42a1942-752f-4787-967c-b9c13ab3e763)
 
 # Program
-
+```
 module Lift8(clk, reset, req_floor, idle, door, Up, Down, current_floor, requests, max_request, min_request, emergency_stop);
 
 input clk, reset, emergency_stop;
@@ -308,10 +308,10 @@ end
 end
 
 endmodule
+```
+# Output:
 
-# Output
-![image](https://github.com/Akila56/ELEVATOR_CONTROL/assets/164776026/d1158e21-d81f-45d9-a365-38c35108356b)
-
+![image](https://github.com/TARUN-E-A/ELEVATOR_CONTROL/assets/163630871/90347982-8b09-4728-b51e-2e5e7a9a7bdb)
 
 # Result
 
